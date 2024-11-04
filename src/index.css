@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family:'Times New Roman', Times, serif;
+  background-color: blueviolet;
 }
 
 .App {
@@ -27,7 +28,7 @@ body {
 }
 
 .headerText {
-  color: #F5A9BC;
+  color: #070606;
   font-size: 3em;
   margin: 0% 2% 0% 2%;
 }
